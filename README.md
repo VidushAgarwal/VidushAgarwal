@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Anany</h1>
+<h1 align="center">Hi 👋, I'm Vidush</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VidushAgarwal&label=Profile%20views&color=0e75b6&style=flat" alt="VidushAgarwal" /> </p>
 
 ### 👨‍💻 About me:
 
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Data Science
 
-- 📫 How to reach me **vidushagarwal111@gmail.com**
+- 📫 How to reach me **vidushagarwal1111@gmail.com**
 
 ### 😁 Connect with me :
 
