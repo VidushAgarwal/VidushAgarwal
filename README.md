@@ -25,8 +25,8 @@
 --- 
 ### :fire: My Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyagrawal&show_icons=true&locale=en" alt="ananyagrawal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VidushAgarwal&show_icons=true&locale=en" alt="VidushAgarwal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyagrawal&" alt="ananyagrawal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VidushAgarwal&" alt="VidushAgarwal" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyagrawal&show_icons=true&locale=en&layout=compact" alt="ananyagrawal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VidushAgarwal&show_icons=true&locale=en&layout=compact" alt="VidushAgarwal" /></p>
